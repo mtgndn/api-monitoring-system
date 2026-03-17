@@ -17,9 +17,7 @@ A full-stack API monitoring dashboard with API key authentication.
 * 🚀 Protected Routes (middleware)
 * ⚡ Rate Limiting
 
-## 📸 Screenshots
 
-(Add your dashboard screenshots here)
 
 ## 🚀 Getting Started
 
